@@ -19,9 +19,9 @@ import static org.junit.Assert.*;
  *
  * @author Mishra
  */
-public class VehicleTest {
+public class VehicleAbstractFactoryTest {
     
-    public VehicleTest() {
+    public VehicleAbstractFactoryTest() {
     }
     
     @BeforeClass
